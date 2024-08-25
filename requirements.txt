@@ -1,0 +1,7 @@
+scikit-learn==1.2.0
+fastapi
+streamlit
+unicorn
+pandas
+disutils
+numpy==1.26.4
